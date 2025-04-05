@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My application</string>
+      <string name="title_jsmain">JsMain</string>
 </resources>

@@ -12,7 +12,7 @@ own [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform#r
 Android, and iOS.
 Follow our tutorial below to get your first Compose Multiplatform app up and running.
 The result will be a [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) project that uses the
-Compose Multiplatform UI framework.
+Compose Multiplatform UI framework
 
 <img src="readme_images/banner.png" height="350">
 
